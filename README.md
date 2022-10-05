@@ -12,7 +12,7 @@ Doe de volgende stappen om de code in een python virtual environment te runnen.
 ## Python Virtual Environment
 Eerst moeten we een python virtual environment maken.
 
-Als je pip nog niet hebt geinstalleerd dan doe dan nu eerst, [installeer eerst](https://pip.pypa.io/en/stable/installing/).
+Als je pip nog niet hebt geinstalleerd dan doe dan nu eerst, [installeer eerst](https://virtualenv.pypa.io/en/latest/installation.html).
 
 Vervolgens installeer je virtualenv met `pip install virtualenv`.
 
@@ -23,7 +23,7 @@ source test_venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Voor windows zijn de stappen iets afwijkend. [Check de handleiding](https://virtualenv.pypa.io/en/latest/userguide/)
+Voor windows zijn de stappen iets afwijkend. [Check de handleiding](https://virtualenv.pypa.io/en/latest/user_guide.html)
 
 
 ###
