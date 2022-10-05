@@ -23,7 +23,7 @@ source test_venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Voor windows zijn de stappen iets afwijkend. [Check de handleiding](https://virtualenv.pypa.io/en/stable/userguide/)
+Voor windows zijn de stappen iets afwijkend. [Check de handleiding](https://virtualenv.pypa.io/en/latest/userguide/)
 
 
 ###
