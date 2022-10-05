@@ -1,8 +1,8 @@
 # Python Service
 
-Maak een clone van de repo
+Maak een clone van de [repo](https://github.com/ZuydUniversity/RT-Video-Stitching-and-Motion-Detection)
 ```
-git clone <url>
+git clone https://github.com/ZuydUniversity/RT-Video-Stitching-and-Motion-Detection
 ```
 
 Ga naar de subfolder RT-Video-Stitching-and-Motion-Detection `cd RT-Video-Stitching-and-Motion-Detection`
